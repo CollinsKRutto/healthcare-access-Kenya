@@ -36,3 +36,10 @@ The full project report with visual explanations and regression analysis is avai
 Future improvements may include:
 - Adding geospatial clustering
 - Integrating poverty and health outcome metrics
+- 
+- ## Interactive Notebook (Google Colab)
+
+You can view and run the Python version of this project in Google Colab:
+
+👉 [Open in Colab](https://colab.research.google.com/drive/1ljNH-LeAZcewG6U9fjV8bpFrbUPK68WL?usp=sharing)
+
