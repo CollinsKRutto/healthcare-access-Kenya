@@ -12,7 +12,7 @@ Explore the interactive dashboard here:
 👉 [Healthcare Facility Access in Kenya – Tableau Public](https://public.tableau.com/views/HealthcareFacilityAccessinKenyaCountyLevelAnalysis/Sheet7)
 
 ## 📄 PDF Report
-The full project report with visual explanations and regression analysis is available [here](link-to-your-uploaded-pdf).
+The full project report with visual explanations and regression analysis is available [here](https://github.com/CollinsKRutto/healthcare-access-Kenya/blob/main/Analyzing%20Healthcare%20Access%20Inequality%20in%20Kenya.pdf)).
 
 ## 🔍 Key Findings
 - Counties like Nairobi and Kiambu have high facility concentrations.
